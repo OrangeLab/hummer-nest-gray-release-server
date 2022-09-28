@@ -1,0 +1,8 @@
+port: 7383
+ossConfigPath: './../../../local-import-config/oss.yml'
+mysql:
+  host: 'localhost'
+  port: 3306
+  username: 'root'
+  password: '0123456789'
+  database: 'hummer-nest'
